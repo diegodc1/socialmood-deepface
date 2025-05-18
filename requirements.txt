@@ -3,3 +3,5 @@ deepface
 pillow
 numpy
 gunicorn
+tf-keras
+
